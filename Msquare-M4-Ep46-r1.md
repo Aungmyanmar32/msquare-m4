@@ -404,7 +404,7 @@ export default Bus;
 - အဲ့ဒီအထဲမှာ destination station တွေကို ပြပေးပါမယ်။
 
 ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-m4/main/ep461%20%283%29.png)
--option မှာ destinationStation ကို ထည့်ပေးလိုက်တဲ့ အခါ error ပြနေတာကို တွေ့ရမှာ ဖြစ်ပါတယ်
+- option မှာ destinationStation ကို ထည့်ပေးလိုက်တဲ့ အခါ error ပြနေတာကို တွေ့ရမှာ ဖြစ်ပါတယ်
 - လောလောဆယ် အဆိုပါ options={destinationStation} ဆိုတဲ့ code ကို typecsript ကို မကြည့်ခိုင်းပဲ ကျော်သွားစေချင်တာ မလို့ //@ts-ignore ကို အသုံးပြုလိုက်ပါမယ်။
 
 ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-m4/main/ep461%20%281%29.png)
