@@ -57,7 +57,7 @@ const user ={name:"user1", email: "user1@gmail.com", age: 27}
 
   return (
     <div className="App-header">
-      <User {...user}/>
+      <User ~~user~~ = {user}/>
     </div>
   );
 };
