@@ -47,7 +47,7 @@ Username [postgres]:
 ### postgres မှာ database တစ်ခု တည်ဆောက်ကြည့်ရအောင်
 - psql ကို ဖွင့်ပြီး အထက်ပါအတိုင်း ၀င်ထားပါ။
 - \c command ကို ရိုက်ထည့်ကြည့်ပါက လက်ရှိရောက်နေတဲ့ db ကို ပြပေးမှာဖြစ်ပါတယ်
-```properties
+```console
 postgres=# \c
 You are now connected to database "postgres" as user "postgres".
 ```
