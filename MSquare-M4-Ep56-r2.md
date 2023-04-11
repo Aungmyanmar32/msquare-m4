@@ -112,7 +112,7 @@ export default PassportProvider;
 - ခု PassportAppContext ကို အသုံးပြုမယ့် PassportApp.tsx ကို PassportProvider component နဲ့ wrap လုပ်ပေးပါမယ်။
 -  PassportApp.tsx ကို ခေါ်သုံးပြီး route လုပ်ထားတဲ့ index.tsx မှာ wrap လုပ်ပေးရမှာဖြစ်ပါတယ်။
 
-ppp
+![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-m4/main/Screenshot%202023-04-11%20122900.png)
 
 - PassportApp.tsx ထဲမှာ context ကို သုံးပြီး datepicker မှာ ရွေးလိုက်တဲ့ ရက်ကို render လုပ်ပါမယ်။
 
